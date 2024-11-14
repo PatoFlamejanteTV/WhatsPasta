@@ -2,6 +2,14 @@
 
 Script designado para enviars copypastas/textos multi-linhas no WhatsApp. 
 
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+
 ## Utilização
 
 Abra `main.js`
